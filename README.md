@@ -1,5 +1,6 @@
-### Hi there 👋 
-I'm Marcin, a passionate cybersecurity professional specializing in penetration testing and cyber security 🔒
+### About Me 
+
+I'm  passionate cybersecurity professional specializing in penetration testing
 
 🌎 II'm active on LinkedIn and Twitter, where I share insights and updates on the latest cybersecurity trends
 
