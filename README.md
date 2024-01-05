@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋 
+I'm Marcin, a passionate cybersecurity professional specializing in penetration testing and cyber security 🔒
 
-<!--
-**msdevsec/msdevsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 II'm active on LinkedIn and Twitter, where I share insights and updates on the latest cybersecurity trends
 
-Here are some ideas to get you started:
+📺 On My YouTube channel, @msdevsec,  you will find useful Penetration Testing videos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ On My website www.msdevsec.com, you will find usefull Penetration Testing & Cyber Security Writeups
+
+
+✔️ Certifications
+• OSCP Certified
+• AWS SysOps Certified
+• AWS Cloud Practitioner Certified
+• Degree in Cyber Security & Digital Forensics
+
+Feel free to contact me through LinkedIn or msdevsec.com
