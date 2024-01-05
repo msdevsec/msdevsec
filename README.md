@@ -1,6 +1,6 @@
 ### About Me 
 
-I'm  passionate cybersecurity professional specializing in penetration testing
+I'm  passionate cybersecurity professional specializing in penetration testing  
 HackTheBox: app.hackthebox.com/profile/1500362
 
 ▶️ On My YouTube channel, @msdevsec,  you will find useful Penetration Testing videos  
