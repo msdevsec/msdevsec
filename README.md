@@ -1,7 +1,7 @@
 ### About Me 
 
 I'm Marcin, dev & cybersecurity passionate professional
-Currently making webapps in Javascript
+Currently making webapps and learning Javascript
   
 ✔️ My Certifications  
 • OSCP Certified  
