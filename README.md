@@ -1,6 +1,6 @@
 ### About Me 
 
-I'm Marcin, dev & cybersecurity passionate professional
+I'm Marcin, dev & cybersecurity passionate 
 Currently making webapps and learning Javascript
   
 ✔️ My Certifications  
