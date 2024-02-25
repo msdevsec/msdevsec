@@ -1,8 +1,8 @@
 ### About Me 
 
-I'm Marcin, dev & cybersecurity passionate 
-Currently making webapps and learning Javascript  
-I'm looking for dev/security intern
+🔭 Hi! I'm Marcin, dev & cybersecurity passionate 
+🌐 Currently I am learning full-stack web development.
+💼 I'm looking for dev/security intern
   
 ✔️ My Certifications  
 • OSCP Certified  
@@ -10,5 +10,4 @@ I'm looking for dev/security intern
 • AWS Cloud Practitioner Certified  
 • Degree in Cyber Security & Digital Forensics  
       
-Feel free to contact me through LinkedIn or msdevsec.com  
-M.
+📫 Thanks for visiting and feel free to contact me: msdevsecmedia@gmail.com
