@@ -11,3 +11,7 @@
 • Degree in Cyber Security & Digital Forensics  
       
 📫 Thanks for visiting and feel free to contact me: msdevsecmedia@gmail.com
+
+Languages and Tools:
+
+Java   JavaScript   Typescript   React   Redux   HTML5   CSS3   Express   Python   C   MongoDB   GraphQL   MySQL   Git   GitHub  
