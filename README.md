@@ -13,7 +13,7 @@
 📫 Thanks for visiting and feel free to contact me: msdevsecmedia@gmail.com
 
 Languages and Tools:
-![LANGS](https://github.com/msdevsec/msdevsec/assets/63856206/135c31a7-5c1c-435e-9734-3589ff1bbc50){:width="100px"}
+![LANGS](https://github.com/msdevsec/msdevsec/blob/main/assets/63856206/135c31a7-5c1c-435e-9734-3589ff1bbc50){:width="100px"}
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msdevsec&layout=compact)
 
