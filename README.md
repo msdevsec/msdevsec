@@ -14,4 +14,4 @@
 
 Languages and Tools:
 
-Java   JavaScript   Typescript   React   Redux   HTML5   CSS3   Express   Python   C   MongoDB   GraphQL   MySQL   Git   GitHub  
+[![Marcin's GitHub stats](https://github-readme-stats.vercel.app/api?username=msdevsec)](https://github.com/msdevsec/github-readme-stats)
