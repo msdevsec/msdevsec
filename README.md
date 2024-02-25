@@ -1,7 +1,7 @@
 ### About Me 
 
 I'm Marcin, dev & cybersecurity passionate 
-Currently making webapps and learning Javascript
+Currently making webapps and learning Javascript  
 I'm looking for dev/security intern
   
 ✔️ My Certifications  
