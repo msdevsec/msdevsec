@@ -4,7 +4,7 @@
 🌐 Currently I am learning full-stack web development.  
 💼 I'm looking for dev/security intern  
   
-✔️ My Certifications  
+✔️ My Certifications:
 • OSCP Certified  
 • AWS SysOps Certified  
 • AWS Cloud Practitioner Certified  
