@@ -14,8 +14,7 @@
 
 Languages and Tools:  
   
-![LANGS](https://github.com/msdevsec/msdevsec/assets/63856206/69c5f6a6-d5ff-47e3-8a58-c38b19f5192d)  
-
+<img src="https://github.com/msdevsec/msdevsec/blob/main/assets/63856206/135c31a7-5c1c-435e-9734-3589ff1bbc50" width="50" height="50">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=msdevsec&layout=compact)
 
