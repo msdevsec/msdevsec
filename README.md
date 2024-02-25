@@ -8,7 +8,9 @@
 • OSCP Certified  
 • AWS SysOps Certified  
 • AWS Cloud Practitioner Certified  
-• Degree in Cyber Security & Digital Forensics  
+• Bsc Degree in Cyber Security & Digital Forensics  
+• Msc Degree in Advanced Cyber Security 
+
       
 📫 Thanks for visiting and feel free to contact me: msdevsecmedia@gmail.com
 
