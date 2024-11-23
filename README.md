@@ -12,7 +12,7 @@
 • Msc Degree in Advanced Cyber Security 
 
       
-📫 Thanks for visiting and feel free to contact me: msdevsecmedia@gmail.com
+📫 Thanks for visiting and feel free to contact me: msdevsec.services@gmail.com
 
 ### :hammer_and_wrench: Languages and Tools :
 
