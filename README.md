@@ -1,6 +1,6 @@
 ### About Me 
 
-🔭 Hi! I'm Marcin, dev & penetration testing passionate   
+🔭 Hi! I'm M, dev & penetration testing passionate   
 🌐 Currently I am learning full-stack web development.  
 💼 I'm looking for dev/security intern  
   
